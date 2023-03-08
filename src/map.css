@@ -1,0 +1,14 @@
+#map {
+    display: block;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+  }
+  #map .popup{
+    position: absolute;
+  width: 150px;
+  height: 80px;
+  background-color: white;
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 12px;
+  }
